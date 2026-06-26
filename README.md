@@ -2,13 +2,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_White.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_Black.png">
-  <img alt="Project Logo" src="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_Black.png" width="120">
+  <img alt="Project Logo" src="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_Black.png" width="100">
 </picture>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Minimal-6.3-lightgrey"/> <img src="https://img.shields.io/badge/SRP-URP/HDRP-green"/> <img src="https://img.shields.io/badge/Type-Editor-blue"/> <img src="https://img.shields.io/badge/Status-Production-brightgreen"/>
 </p>
+
+<br/>
 
 # Unity CamBook Editor Tool
 
