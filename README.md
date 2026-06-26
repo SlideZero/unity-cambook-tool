@@ -1,11 +1,15 @@
 # Unity CamBook Editor Tool
 
+<p align="center">
+<img src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/CamBook_Preview.png"/>
+</p>
+
 ### What is this?
 CamBook is an editor tool that uses bookmarks to navigate and visualize scenes from different view angles. This helps to speed up the workflow on build and design scenes.
 
 ### Installation
 
 1. Go to Package Manager
-2. Click the **'+'** icon > Install package fron git URL
+2. Click the **'+'** icon ***> Install package fron git URL***
 3. Paste https://github.com/SlideZero/unity-cambook-tool.git and click install
-4. Open from **Window > CamBook**
+4. Open from ***Window > CamBook***
