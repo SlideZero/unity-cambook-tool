@@ -1,0 +1,13 @@
+{
+  "name": "com.zeroslide.cambook",
+  "version": "1.0.0",
+  "displayName": "CamBook",
+  "description": "Camera bookmarks to navigate and visualize scenes from different view angles.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Carlos Ramírez",
+    "email": "cramirezoldev@gmail.com",
+    "url" : "https://zesdev.com/"
+  },
+  "dependencies": {}
+}

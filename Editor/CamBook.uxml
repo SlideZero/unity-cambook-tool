@@ -1,0 +1,41 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Packages/com.zeroslide.cambook/Editor/CamBookEditorStyle.uss?fileID=7433441132597879392&amp;guid=67b2151d00f78c74b8a1dac66371da76&amp;type=3#CamBookEditorStyle"/>
+    <ui:VisualElement name="VisualElement" style="flex-grow: 1; flex-direction: column; height: 100%; position: relative; width: 100%; justify-content: flex-start; align-content: flex-start; padding-top: 10px; padding-bottom: 10px;">
+        <ui:ScrollView>
+            <ui:VisualElement name="Title" style="flex-grow: 1;">
+                <ui:Label text="CamBook" name="Header" style="align-self: auto; align-content: flex-start; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; font-size: 18px; margin-left: 10px; -unity-font-style: bold; -unity-text-outline-width: 0; -unity-text-outline-color: rgb(0, 0, 0);"/>
+                <ui:Label text="Camera bookmarks to navigate and visualize scenes from different view angles." style="flex-wrap: nowrap; flex-direction: column; white-space: normal; margin-left: 10px; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 2.5px; margin-bottom: 2.5px;"/>
+            </ui:VisualElement>
+            <ui:Label text="Bookmark 1" class="title-label" style="-unity-font-style: bold; -unity-text-align: middle-left;"/>
+            <ui:VisualElement name="Container" class="container" style="flex-grow: 1; flex-direction: row; justify-content: center; align-self: auto; align-content: auto; height: auto; width: auto; align-items: stretch;">
+                <ui:Button text="Set" name="Set0" class="button set-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Jump" name="Jump0" class="button jump-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Remove" name="Remove0" class="button remove-button" style="-unity-font-style: bold;"/>
+            </ui:VisualElement>
+            <ui:Label text="Bookmark 2" class="title-label" style="-unity-font-style: bold; -unity-text-align: middle-left;"/>
+            <ui:VisualElement name="Container" class="container" style="flex-grow: 1; flex-direction: row; justify-content: center; align-self: auto; align-content: auto; height: auto; width: auto;">
+                <ui:Button text="Set" name="Set1" class="button set-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Jump" name="Jump1" class="button jump-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Remove" name="Remove1" class="button remove-button" style="-unity-font-style: bold;"/>
+            </ui:VisualElement>
+            <ui:Label text="Bookmark 3" class="title-label" style="-unity-font-style: bold; -unity-text-align: middle-left;"/>
+            <ui:VisualElement name="Container" class="container" style="flex-grow: 1; flex-direction: row; justify-content: center; align-self: auto; align-content: auto; height: auto; width: auto;">
+                <ui:Button text="Set" name="Set2" class="button set-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Jump" name="Jump2" class="button jump-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Remove" name="Remove2" class="button remove-button" style="-unity-font-style: bold;"/>
+            </ui:VisualElement>
+            <ui:Label text="Bookmark 4" class="title-label" style="-unity-font-style: bold; -unity-text-align: middle-left;"/>
+            <ui:VisualElement name="Container" class="container" style="flex-grow: 1; flex-direction: row; justify-content: center; align-self: auto; align-content: auto; height: auto; width: auto; align-items: stretch;">
+                <ui:Button text="Set" name="Set3" class="button set-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Jump" name="Jump3" class="button jump-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Remove" name="Remove3" class="button remove-button" style="-unity-font-style: bold;"/>
+            </ui:VisualElement>
+            <ui:Label text="Bookmark 5" class="title-label" style="-unity-font-style: bold; -unity-text-align: middle-left;"/>
+            <ui:VisualElement name="Container" class="container" style="flex-grow: 1; flex-direction: row; justify-content: center; align-self: auto; align-content: auto; height: auto; width: auto; align-items: stretch;">
+                <ui:Button text="Set" name="Set4" class="button set-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Jump" name="Jump4" class="button jump-button" style="-unity-font-style: bold;"/>
+                <ui:Button text="Remove" name="Remove4" class="button remove-button" style="-unity-font-style: bold;"/>
+            </ui:VisualElement>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>
