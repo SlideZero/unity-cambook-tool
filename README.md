@@ -21,6 +21,8 @@
 ## What is CamBook?
 CamBook is an editor tool that uses bookmarks to navigate and visualize scenes from different view angles. This helps to speed up the workflow on build and design scenes.
 
+<img alt="CamBook Preview" src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/Preview.gif" width="854">
+
 ## Installation
 
   > [!NOTE]
