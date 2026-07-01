@@ -1,8 +1,8 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_White.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_Black.png">
-  <img alt="Project Logo" src="https://github.com/SlideZero/icons-logos/blob/main/Unity_24/U_Cube_1C_Black.png" width="100">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2e745c92-1db4-4a42-a9ce-82e689137de0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/65941105-b95c-4b90-b236-aae0bc428755">
+  <img alt="Project Logo" src="https://github.com/user-attachments/assets/65941105-b95c-4b90-b236-aae0bc428755" width="100"/>
 </picture>
 </p>
 
@@ -15,7 +15,7 @@
 # Unity CamBook Editor Tool
 
 <p >
-<img src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/CamBook_Preview.png"/>
+<img alt="CamBook_Preview" src="https://github.com/user-attachments/assets/c59ea3ce-a331-4525-807b-59e13e8b3bf9" />
 </p>
 
 ## What is CamBook?
@@ -24,7 +24,7 @@ This helps to speed up the workflow on build and design scenes.
 > [!NOTE]
 > This tool operates in the *Scene View*, so it does not affect the position or settings of the game camera object.
 
-<img alt="CamBook Preview" src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/Preview.gif" width="854">
+<img alt="CamBook Preview" src="https://github.com/user-attachments/assets/8cbbfa0f-ef91-4d9f-b40e-fdf46969138a" width="854"/>
 
 ## Installation
 
