@@ -19,7 +19,10 @@
 </p>
 
 ## What is CamBook?
-CamBook is an editor tool that uses bookmarks to navigate and visualize scenes from different view angles. This helps to speed up the workflow on build and design scenes.
+CamBook is an editor tool that uses bookmarks to navigate and visualize scenes from different view angles.\
+This helps to speed up the workflow on build and design scenes.
+> [!IMPORTANT]
+> This tool operates in the *Scene View*, so it does not affect the position or settings of the game camera object.
 
 <img alt="CamBook Preview" src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/Preview.gif" width="854">
 
@@ -34,3 +37,9 @@ CamBook is an editor tool that uses bookmarks to navigate and visualize scenes f
   2. Click the **'+'** icon ***> Install package from git URL***
   3. Paste https://github.com/SlideZero/unity-cambook-tool.git and click install
   4. Open from ***Window > CamBook***
+
+## How to use?
+
+- **Set:** *Fixes the scene camera to the current view and saves it to the corresponding bookmark*
+- **Jump:** *Takes you directly to the scene view saved in the corresponding bookmark*
+- **Remove:** *Delete the saved scene view from the corresponding bookmark*
