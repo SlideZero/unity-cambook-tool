@@ -21,15 +21,15 @@
 ## What is CamBook?
 CamBook is an editor tool that uses bookmarks to navigate and visualize scenes from different view angles.\
 This helps to speed up the workflow on build and design scenes.
-> [!IMPORTANT]
+> [!NOTE]
 > This tool operates in the *Scene View*, so it does not affect the position or settings of the game camera object.
 
 <img alt="CamBook Preview" src="https://github.com/SlideZero/icons-logos/blob/main/CamBook/Preview.gif" width="854">
 
 ## Installation
 
-  > [!NOTE]
-  > You must have [Git](https://git-scm.com) installed on your computer in order to download and install this package.
+  > [!IMPORTANT]
+  > You must have [Git](https://git-scm.com) installed on your computer in order to download and install this package from Package Manager.
 
 <br/>
 
